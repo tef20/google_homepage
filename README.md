@@ -1,2 +1,2 @@
 # google_homepage
-First HTML project -- TOP
+First HTML project -- The Odin Project
